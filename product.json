@@ -1,0 +1,39 @@
+{
+    "products": [
+    {"Prod1": {
+      "price": "1500",
+      "stock": "50",
+      "img":"/img/Prod1.webp",
+      "size":"L",
+      "description":"Lorem ipsum dolor sit amet,"
+    },
+      "Prod2": {
+      "price": "1000",
+      "stock": "30",
+      "img":"/img/Prod2.webp",
+      "size":"L",
+      "description":"Lorem ipsum dolor sit amet,"
+    },
+      "Prod3": {
+      "price": "1200",
+      "stock": "25",
+      "img":"/img/Prod3.webp",
+      "size":"XL",
+      "description":"Lorem ipsum dolor sit amet,"
+    },
+      "Prod4": {
+      "price": "500",
+      "stock": "250",
+      "img":"/img/Prod4.webp",
+      "size":"S",
+      "description":"Lorem ipsum dolor sit amet,"
+    },"Prod5": {
+      "price": "250",
+      "stock": "50",
+      "img":"/img/Prod5.webp",
+      "size":"XS",
+      "description":"Lorem ipsum dolor sit amet,"
+    }
+    }],
+    "total": "5"
+  }

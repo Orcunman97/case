@@ -1,0 +1,17 @@
+Merhaba,
+
+product.json dosyasında ki verileri sahte bir servis olarak kullanın ve aşağıda ki işlemleri yapabilecek bir çalışma hazırlayın.
+
+
+-Ürünlerin resimleri,fiyatları ve stok durumlarının gözüktüğü bir ürünlerim kısmı hazırlayın.
+(footer header yaratmayın,sadece 5 ürünün sayfanın ortasında yan yana durmalı.)
+-Bu ürünleri sepete ekleyebileceğimiz butonlar oluşturun ve sepetim bölümü oluşturun.
+-Sepetim bölümünde toplam fiyat bilgisi olmalı.
+-Sepetim bölümüne Check-out butonu oluşturun.
+-Check-out bölümünde bir adet indirim butonu oluşturun,bu butona tıklandığında %20 indirim yapılmalı.
+-Check-out bölümünde alışverişi tamamla butonu oluşturun.Bu buton herhangi bir yere tüm sepeti ve tutarı post etmeli.
+
+
+
+
+Teşekkürler.

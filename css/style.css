@@ -1,0 +1,171 @@
+.foto1 {
+    width: 188px;
+    height: 250px;
+    display: inline-block;
+    background-image: url(/pictures/tn_1.jpg);
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    margin-left: 9%;
+    margin-top: 10%;
+
+}
+.foto2 {
+    width: 188px;
+    height: 250px;
+    display: inline-block;
+    background-image: url(/pictures/tn_2.jpg);
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    margin-left: 3%;
+    margin-top: 10%;
+}
+.foto3 {
+    width: 230px;
+    height: 250px;
+    display: inline-block;
+    background-image: url(/pictures/tn_3.jpg);
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    margin-left: 2.5%;
+    margin-top: 10%;
+}
+.foto4 {
+    width: 210px;
+    height: 250px;
+    display: inline-block;
+    background-image: url(/pictures/tn_4.jpg);
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    margin-left: 0%;
+    margin-top: 10%;
+}
+.foto5 {
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    background-image: url(/pictures/tn_5.jpg);
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    margin-left: 1%;
+    margin-top: 10%;
+}
+
+.productProd1 {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 13%;
+    margin-top: 2%;
+    width: 188px;
+    height: 250px;
+}
+.productProd2 {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 3%;
+    margin-top: 2%;
+    width: 188px;
+    height: 250px;
+}
+.productProd3 {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 4%;
+    margin-top: 2%;
+    width: 230px;
+    height: 250px;
+}
+.productProd4 {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 0.8%;
+    margin-top: 2%;
+    width: 210px;
+    height: 250px;
+}
+.productProd5 {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 1.8%;
+    margin-top: 2%;
+    width: 250px;
+    height: 250px;
+}
+.btn-1 {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 15%;
+    overflow: hidden;
+    border-radius: 10px;
+    -webkit-box-shadow: 0 0 10px rgba(0,0,0,.3);
+    box-shadow: 0 0 10px rgba(0,0,0,.3);
+    -webkit-transition:all 1s ease;
+    -moz-transition:all 1s ease;
+    -o-transition:all 1s ease;
+    -ms-transition:all 1s ease;
+    transition:all 1s ease;   
+}
+.btn-2 {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 8%;
+    overflow: hidden;
+    border-radius: 10px;
+    -webkit-box-shadow: 0 0 10px rgba(0,0,0,.3);
+    box-shadow: 0 0 10px rgba(0,0,0,.3);
+    -webkit-transition:all 1s ease;
+    -moz-transition:all 1s ease;
+    -o-transition:all 1s ease;
+    -ms-transition:all 1s ease;
+    transition:all 1s ease;
+}
+.btn-3 {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 12%;
+    overflow: hidden;
+    border-radius: 10px;
+    -webkit-box-shadow: 0 0 10px rgba(0,0,0,.3);
+    box-shadow: 0 0 10px rgba(0,0,0,.3);
+    -webkit-transition:all 1s ease;
+    -moz-transition:all 1s ease;
+    -o-transition:all 1s ease;
+    -ms-transition:all 1s ease;
+    transition:all 1s ease;
+}
+.btn-4 {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10%;
+    overflow: hidden;
+    border-radius: 10px;
+    -webkit-box-shadow: 0 0 10px rgba(0,0,0,.3);
+    box-shadow: 0 0 10px rgba(0,0,0,.3);
+    -webkit-transition:all 1s ease;
+    -moz-transition:all 1s ease;
+    -o-transition:all 1s ease;
+    -ms-transition:all 1s ease;
+    transition:all 1s ease;
+}
+.btn-5 {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10%;
+    overflow: hidden;
+    border-radius: 10px;
+    -webkit-box-shadow: 0 0 10px rgba(0,0,0,.3);
+    box-shadow: 0 0 10px rgba(0,0,0,.3);
+    -webkit-transition:all 1s ease;
+    -moz-transition:all 1s ease;
+    -o-transition:all 1s ease;
+    -ms-transition:all 1s ease;
+    transition:all 1s ease;
+}
+.btn-hvr:hover {
+    border-radius: 100%;
+    background: red;
+    color: green;
+}
+@media screen and (max-width: 1024) {
+
+    
+}
